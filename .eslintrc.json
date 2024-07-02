@@ -1,0 +1,6 @@
+{
+  "extends": ["next/babel"],
+  "rules": {
+    "no-unused-vars": "off"
+  }
+}
